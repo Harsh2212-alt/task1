@@ -1,0 +1,245 @@
+ID,Date,Region,City,Category,Productqty,UnitPrice,TotalPrice
+ID07351,1-Jan,East,Boston,Bars,Carrot,2,50
+ID07352,4-Jan,East,Boston,Crackers,Whole Wheat,4,100
+ID07353,7-Jan,West,Los Angeles,Cookies,Chocolate Chip,6,150
+ID07354,10-Jan,East,New York,Cookies,Chocolate Chip,8,200
+ID07355,13-Jan,East,Boston,Cookies,Arrowroot,10,250
+ID07356,16-Jan,East,Boston,Bars,Carrot,12,300
+ID07357,19-Jan,East,Boston,Crackers,Whole Wheat,14,350
+ID07358,22-Jan,West,Los Angeles,Bars,Carrot,16,400
+ID07359,25-Jan,East,New York,Bars,Carrot,18,450
+ID07360,28-Jan,East,New York,Snacks,Potato Chips,20,500
+ID07361,31-Jan,East,Boston,Cookies,Arrowroot,22,550
+ID07362,3-Feb,East,Boston,Cookies,Chocolate Chip,24,600
+ID07363,6-Feb,East,Boston,Crackers,Whole Wheat,26,650
+ID07364,9-Feb,West,Los Angeles,Bars,Carrot,28,700
+ID07365,12-Feb,East,New York,Bars,Carrot,30,750
+ID07366,15-Feb,East,New York,Snacks,Potato Chips,32,800
+ID07367,18-Feb,East,Boston,Cookies,Arrowroot,34,850
+ID07368,21-Feb,East,Boston,Cookies,Oatmeal Raisin,36,900
+ID07369,24-Feb,West,Los Angeles,Bars,Bran,38,950
+ID07370,27-Feb,West,Los Angeles,Cookies,Oatmeal Raisin,40,1000
+ID07371,2-Mar,East,New York,Cookies,Chocolate Chip,42,1050
+ID07372,5-Mar,West,San Diego,Cookies,Oatmeal Raisin,44,1100
+ID07373,8-Mar,East,Boston,Bars,Carrot,46,1150
+ID07374,11-Mar,East,Boston,Crackers,Whole Wheat,48,1200
+ID07375,14-Mar,West,Los Angeles,Cookies,Chocolate Chip,50,1250
+ID07376,17-Mar,East,New York,Bars,Carrot,52,1300
+ID07377,20-Mar,East,New York,Snacks,Potato Chips,54,1350
+ID07378,23-Mar,West,San Diego,Cookies,Chocolate Chip,56,1400
+ID07379,26-Mar,East,Boston,Bars,Bran,58,1450
+ID07380,29-Mar,East,Boston,Cookies,Oatmeal Raisin,60,1500
+ID07381,1-Apr,West,Los Angeles,Bars,Carrot,62,1550
+ID07382,4-Apr,West,Los Angeles,Snacks,Potato Chips,64,1600
+ID07383,7-Apr,East,New York,Bars,Carrot,66,1650
+ID07384,10-Apr,East,New York,Crackers,Whole Wheat,68,1700
+ID07385,13-Apr,West,San Diego,Snacks,Potato Chips,70,1750
+ID07386,16-Apr,East,Boston,Bars,Carrot,72,1800
+ID07387,19-Apr,East,Boston,Snacks,Potato Chips,74,1850
+ID07388,22-Apr,West,Los Angeles,Bars,Carrot,76,1900
+ID07389,25-Apr,East,New York,Bars,Carrot,78,1950
+ID07390,28-Apr,East,New York,Snacks,Potato Chips,80,2000
+ID07391,1-May,West,San Diego,Cookies,Chocolate Chip,82,2050
+ID07392,4-May,East,Boston,Bars,Bran,84,2100
+ID07393,7-May,East,Boston,Cookies,Oatmeal Raisin,86,2150
+ID07394,10-May,West,Los Angeles,Bars,Carrot,88,2200
+ID07395,13-May,West,Los Angeles,Crackers,Whole Wheat,90,2250
+ID07396,16-May,East,New York,Bars,Carrot,92,2300
+ID07397,19-May,East,New York,Snacks,Potato Chips,94,2350
+ID07398,22-May,West,San Diego,Cookies,Chocolate Chip,96,2400
+ID07399,25-May,East,Boston,Cookies,Arrowroot,98,2450
+ID07400,28-May,East,Boston,Bars,Carrot,100,2500
+ID07401,31-May,East,Boston,Crackers,Whole Wheat,102,2550
+ID07402,3-Jun,West,Los Angeles,Cookies,Oatmeal Raisin,104,2600
+ID07403,6-Jun,East,New York,Cookies,Chocolate Chip,106,2650
+ID07404,9-Jun,West,San Diego,Bars,Carrot,108,2700
+ID07405,12-Jun,West,San Diego,Crackers,Whole Wheat,110,2750
+ID07406,15-Jun,East,Boston,Bars,Carrot,112,2800
+ID07407,18-Jun,East,Boston,Crackers,Whole Wheat,114,2850
+ID07408,21-Jun,West,Los Angeles,Bars,Carrot,116,2900
+ID07409,24-Jun,West,Los Angeles,Snacks,Potato Chips,118,2950
+ID07410,27-Jun,East,New York,Bars,Bran,120,3000
+ID07411,30-Jun,East,New York,Cookies,Oatmeal Raisin,122,3050
+ID07412,3-Jul,West,San Diego,Bars,Carrot,124,3100
+ID07413,6-Jul,West,San Diego,Crackers,Whole Wheat,126,3150
+ID07414,9-Jul,East,Boston,Bars,Carrot,128,3200
+ID07415,12-Jul,East,Boston,Crackers,Whole Wheat,130,3250
+ID07416,15-Jul,West,Los Angeles,Cookies,Chocolate Chip,132,3300
+ID07417,18-Jul,East,New York,Bars,Bran,134,3350
+ID07418,21-Jul,East,New York,Cookies,Oatmeal Raisin,136,3400
+ID07419,24-Jul,West,San Diego,Bars,Bran,138,3450
+ID07420,27-Jul,West,San Diego,Snacks,Potato Chips,140,3500
+ID07421,30-Jul,East,Boston,Bars,Bran,142,3550
+ID07422,2-Aug,East,Boston,Cookies,Oatmeal Raisin,144,3600
+ID07423,5-Aug,West,Los Angeles,Cookies,Chocolate Chip,146,3650
+ID07424,8-Aug,East,New York,Bars,Carrot,148,3700
+ID07425,11-Aug,East,New York,Crackers,Whole Wheat,150,3750
+ID07426,14-Aug,West,San Diego,Cookies,Chocolate Chip,152,3800
+ID07427,17-Aug,East,Boston,Cookies,Arrowroot,154,3850
+ID07428,20-Aug,East,Boston,Bars,Carrot,156,3900
+ID07429,23-Aug,East,Boston,Crackers,Whole Wheat,158,3950
+ID07430,26-Aug,West,Los Angeles,Cookies,Chocolate Chip,160,4000
+ID07431,29-Aug,East,New York,Bars,Bran,162,4050
+ID07432,1-Sep,East,New York,Cookies,Oatmeal Raisin,164,4100
+ID07433,4-Sep,West,San Diego,Bars,Carrot,166,4150
+ID07434,7-Sep,East,Boston,Cookies,Arrowroot,168,4200
+ID07435,10-Sep,East,Boston,Bars,Carrot,170,4250
+ID07436,13-Sep,East,Boston,Snacks,Pretzels,172,4300
+ID07437,16-Sep,West,Los Angeles,Bars,Carrot,174,4350
+ID07438,19-Sep,East,New York,Cookies,Arrowroot,176,4400
+ID07439,22-Sep,East,New York,Cookies,Chocolate Chip,178,4450
+ID07440,25-Sep,West,San Diego,Bars,Bran,180,4500
+ID07441,28-Sep,East,Boston,Cookies,Arrowroot,182,4550
+ID07442,1-Oct,East,Boston,Bars,Carrot,184,4600
+ID07443,4-Oct,East,Boston,Crackers,Whole Wheat,186,4650
+ID07444,7-Oct,West,Los Angeles,Bars,Carrot,188,4700
+ID07445,10-Oct,West,Los Angeles,Snacks,Potato Chips,190,4750
+ID07446,13-Oct,East,New York,Cookies,Arrowroot,192,4800
+ID07447,16-Oct,East,New York,Bars,Carrot,194,4850
+ID07448,19-Oct,East,New York,Crackers,Whole Wheat,196,4900
+ID07449,22-Oct,West,San Diego,Bars,Carrot,198,4950
+ID07450,25-Oct,East,Boston,Cookies,Arrowroot,200,5000
+ID07451,28-Oct,East,Boston,Cookies,Chocolate Chip,202,5050
+ID07452,31-Oct,East,Boston,Crackers,Whole Wheat,204,5100
+ID07453,3-Nov,West,Los Angeles,Bars,Carrot,206,5150
+ID07454,6-Nov,West,Los Angeles,Snacks,Potato Chips,208,5200
+ID07455,9-Nov,East,New York,Bars,Carrot,210,5250
+ID07456,12-Nov,West,San Diego,Cookies,Arrowroot,212,5300
+ID07457,15-Nov,West,San Diego,Cookies,Oatmeal Raisin,214,5350
+ID07458,18-Nov,East,Boston,Bars,Bran,216,5400
+ID07459,21-Nov,East,Boston,Cookies,Oatmeal Raisin,218,5450
+ID07460,24-Nov,West,Los Angeles,Bars,Carrot,220,5500
+ID07461,27-Nov,West,Los Angeles,Snacks,Potato Chips,222,5550
+ID07462,30-Nov,East,New York,Bars,Carrot,224,5600
+ID07463,3-Dec,West,San Diego,Cookies,Arrowroot,226,5650
+ID07464,6-Dec,West,San Diego,Cookies,Oatmeal Raisin,228,5700
+ID07465,9-Dec,East,Boston,Bars,Banana,230,5750
+ID07466,12-Dec,East,Boston,Cookies,Chocolate Chip,232,5800
+ID07467,15-Dec,East,Boston,Crackers,Whole Wheat,234,5850
+ID07468,18-Dec,West,Los Angeles,Bars,Carrot,236,5900
+ID07469,21-Dec,West,Los Angeles,Snacks,Potato Chips,238,5950
+ID07470,24-Dec,East,New York,Cookies,Arrowroot,240,6000
+ID07471,27-Dec,East,New York,Cookies,Chocolate Chip,242,6050
+ID07472,30-Dec,West,San Diego,Cookies,Arrowroot,244,6100
+ID07473,2-Jan,East,Boston,Cookies,Arrowroot,246,6150
+ID07474,5-Jan,East,Boston,Bars,Carrot,248,6200
+ID07475,8-Jan,East,Boston,Snacks,Pretzels,250,6250
+ID07476,11-Jan,West,Los Angeles,Bars,Bran,252,6300
+ID07477,14-Jan,West,Los Angeles,Cookies,Oatmeal Raisin,254,6350
+ID07478,17-Jan,East,New York,Bars,Carrot,256,6400
+ID07479,20-Jan,East,New York,Crackers,Whole Wheat,258,6450
+ID07480,23-Jan,West,San Diego,Bars,Carrot,260,6500
+ID07481,26-Jan,East,Boston,Cookies,Arrowroot,262,6550
+ID07482,29-Jan,East,Boston,Bars,Carrot,264,6600
+ID07483,1-Feb,East,Boston,Snacks,Potato Chips,266,6650
+ID07484,4-Feb,West,Los Angeles,Cookies,Arrowroot,268,6700
+ID07485,7-Feb,West,Los Angeles,Cookies,Chocolate Chip,270,6750
+ID07486,10-Feb,East,New York,Bars,Carrot,272,6800
+ID07487,13-Feb,East,New York,Snacks,Potato Chips,274,6850
+ID07488,16-Feb,West,San Diego,Cookies,Oatmeal Raisin,276,6900
+ID07489,19-Feb,East,Boston,Bars,Carrot,278,6950
+ID07490,22-Feb,East,Boston,Snacks,Pretzels,280,7000
+ID07491,25-Feb,West,Los Angeles,Cookies,Arrowroot,282,7050
+ID07492,28-Feb,West,Los Angeles,Cookies,Chocolate Chip,284,7100
+ID07493,2-Mar,East,New York,Bars,Bran,286,7150
+ID07494,5-Mar,East,New York,Cookies,Oatmeal Raisin,288,7200
+ID07495,8-Mar,West,San Diego,Bars,Bran,290,7250
+ID07496,11-Mar,West,San Diego,Snacks,Potato Chips,292,7300
+ID07497,14-Mar,East,Boston,Bars,Carrot,294,7350
+ID07498,17-Mar,East,Boston,Snacks,Potato Chips,296,7400
+ID07499,20-Mar,West,Los Angeles,Bars,Carrot,298,7450
+ID07500,23-Mar,West,Los Angeles,Snacks,Potato Chips,300,7500
+ID07501,26-Mar,East,New York,Bars,Bran,302,7550
+ID07502,29-Mar,East,New York,Cookies,Oatmeal Raisin,304,7600
+ID07503,1-Apr,West,San Diego,Bars,Carrot,306,7650
+ID07504,4-Apr,East,Boston,Cookies,Arrowroot,308,7700
+ID07505,7-Apr,East,Boston,Cookies,Oatmeal Raisin,310,7750
+ID07506,10-Apr,West,Los Angeles,Bars,Carrot,312,7800
+ID07507,13-Apr,West,Los Angeles,Crackers,Whole Wheat,314,7850
+ID07508,16-Apr,East,New York,Bars,Carrot,316,7900
+ID07509,19-Apr,East,New York,Snacks,Potato Chips,318,7950
+ID07510,22-Apr,West,San Diego,Cookies,Chocolate Chip,320,8000
+ID07511,25-Apr,East,Boston,Bars,Bran,322,8050
+ID07512,28-Apr,East,Boston,Cookies,Oatmeal Raisin,324,8100
+ID07513,1-May,West,Los Angeles,Cookies,Arrowroot,326,8150
+ID07514,4-May,West,Los Angeles,Cookies,Chocolate Chip,328,8200
+ID07515,7-May,East,New York,Bars,Bran,330,8250
+ID07516,10-May,East,New York,Cookies,Oatmeal Raisin,332,8300
+ID07517,13-May,West,San Diego,Cookies,Chocolate Chip,334,8350
+ID07518,16-May,East,Boston,Bars,Carrot,336,8400
+ID07519,19-May,East,Boston,Snacks,Pretzels,338,8450
+ID07520,22-May,West,Los Angeles,Cookies,Chocolate Chip,340,8500
+ID07521,25-May,East,New York,Bars,Carrot,342,8550
+ID07522,28-May,West,San Diego,Cookies,Arrowroot,344,8600
+ID07523,31-May,West,San Diego,Cookies,Oatmeal Raisin,346,8650
+ID07524,3-Jun,East,Boston,Bars,Bran,348,8700
+ID07525,6-Jun,East,Boston,Cookies,Oatmeal Raisin,350,8750
+ID07526,9-Jun,East,Boston,Crackers,Whole Wheat,352,8800
+ID07527,12-Jun,West,Los Angeles,Bars,Carrot,354,8850
+ID07528,15-Jun,East,New York,Bars,Bran,356,8900
+ID07529,18-Jun,East,New York,Cookies,Oatmeal Raisin,358,8950
+ID07530,21-Jun,West,San Diego,Bars,Carrot,360,9000
+ID07531,24-Jun,East,Boston,Bars,Banana,362,9050
+ID07532,27-Jun,East,Boston,Cookies,Chocolate Chip,364,9100
+ID07533,30-Jun,East,Boston,Crackers,Whole Wheat,366,9150
+ID07534,3-Jul,West,Los Angeles,Bars,Bran,368,9200
+ID07535,6-Jul,West,Los Angeles,Cookies,Oatmeal Raisin,370,9250
+ID07536,9-Jul,East,New York,Cookies,Arrowroot,372,9300
+ID07537,12-Jul,East,New York,Cookies,Chocolate Chip,374,9350
+ID07538,15-Jul,West,San Diego,Bars,Bran,376,9400
+ID07539,18-Jul,East,Boston,Bars,Banana,378,9450
+ID07540,21-Jul,East,Boston,Cookies,Chocolate Chip,380,9500
+ID07541,24-Jul,East,Boston,Crackers,Whole Wheat,382,9550
+ID07542,27-Jul,West,Los Angeles,Cookies,Arrowroot,384,9600
+ID07543,30-Jul,West,Los Angeles,Cookies,Chocolate Chip,386,9650
+ID07544,2-Aug,East,New York,Bars,Carrot,388,9700
+ID07545,5-Aug,West,San Diego,Cookies,Arrowroot,390,9750
+ID07546,8-Aug,West,San Diego,Cookies,Oatmeal Raisin,392,9800
+ID07547,11-Aug,East,Boston,Bars,Carrot,394,9850
+ID07548,14-Aug,East,Boston,Snacks,Pretzels,396,9900
+ID07549,17-Aug,West,Los Angeles,Bars,Carrot,398,9950
+ID07550,20-Aug,East,New York,Bars,Bran,400,10000
+ID07551,23-Aug,East,New York,Cookies,Oatmeal Raisin,402,10050
+ID07552,26-Aug,West,San Diego,Bars,Carrot,404,10100
+ID07553,29-Aug,East,Boston,Cookies,Arrowroot,406,10150
+ID07554,1-Sep,East,Boston,Bars,Carrot,408,10200
+ID07555,4-Sep,East,Boston,Snacks,Pretzels,410,10250
+ID07556,7-Sep,West,Los Angeles,Bars,Bran,412,10300
+ID07557,10-Sep,West,Los Angeles,Cookies,Oatmeal Raisin,414,10350
+ID07558,13-Sep,East,New York,Bars,Carrot,416,10400
+ID07559,16-Sep,East,New York,Snacks,Potato Chips,418,10450
+ID07560,19-Sep,West,San Diego,Bars,Carrot,420,10500
+ID07561,22-Sep,East,Boston,Cookies,Arrowroot,422,10550
+ID07562,25-Sep,East,Boston,Bars,Carrot,424,10600
+ID07563,28-Sep,East,Boston,Snacks,Pretzels,426,10650
+ID07564,1-Oct,West,Los Angeles,Bars,Bran,428,10700
+ID07565,4-Oct,West,Los Angeles,Cookies,Oatmeal Raisin,430,10750
+ID07566,7-Oct,East,New York,Cookies,Arrowroot,432,10800
+ID07567,10-Oct,East,New York,Cookies,Chocolate Chip,434,10850
+ID07568,13-Oct,West,San Diego,Bars,Carrot,436,10900
+ID07569,16-Oct,East,Boston,Cookies,Arrowroot,438,10950
+ID07570,19-Oct,East,Boston,Bars,Carrot,440,11000
+ID07571,22-Oct,East,Boston,Crackers,Whole Wheat,442,11050
+ID07572,25-Oct,West,Los Angeles,Bars,Carrot,444,11100
+ID07573,28-Oct,East,New York,Bars,Bran,446,11150
+ID07574,31-Oct,East,New York,Snacks,Potato Chips,448,11200
+ID07575,3-Nov,West,San Diego,Cookies,Chocolate Chip,450,11250
+ID07576,6-Nov,East,Boston,Bars,Bran,452,11300
+ID07577,9-Nov,East,Boston,Cookies,Oatmeal Raisin,454,11350
+ID07578,12-Nov,West,Los Angeles,Bars,Carrot,456,11400
+ID07579,15-Nov,East,New York,Cookies,Arrowroot,458,11450
+ID07580,18-Nov,East,New York,Cookies,Chocolate Chip,460,11500
+ID07581,21-Nov,West,San Diego,Bars,Carrot,462,11550
+ID07582,24-Nov,East,Boston,Cookies,Arrowroot,464,11600
+ID07583,27-Nov,East,Boston,Cookies,Chocolate Chip,466,11650
+ID07584,30-Nov,East,Boston,Crackers,Whole Wheat,468,11700
+ID07585,3-Dec,West,Los Angeles,Bars,Bran,470,11750
+ID07586,6-Dec,West,Los Angeles,Cookies,Oatmeal Raisin,472,11800
+ID07587,9-Dec,East,New York,Bars,Carrot,474,11850
+ID07588,12-Dec,East,New York,Crackers,Whole Wheat,476,11900
+ID07589,15-Dec,West,San Diego,Cookies,Chocolate Chip,478,11950
+ID07590,18-Dec,East,Boston,Cookies,Arrowroot,480,12000
+ID07591,21-Dec,East,Boston,Cookies,Chocolate Chip,482,12050
+ID07592,24-Dec,East,Boston,Crackers,Whole Wheat,484,12100
+ID07593,27-Dec,West,Los Angeles,Bars,Bran,486,12150
+ID07594,30-Dec,West,Los Angeles,Cookies,Oatmeal Raisin,488,12200
